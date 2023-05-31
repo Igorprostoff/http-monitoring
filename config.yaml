@@ -1,0 +1,13 @@
+urls:
+  - "http://31.184.254.153:80/health"
+  - "http://84.38.182.26:80/health"
+  - "http://84.38.182.35:80/health"
+  - "http://84.38.182.183:80/health"
+
+
+timeout: "10s"
+
+db_pass: "root"
+db_user: "root"
+db_db: "postgres"
+db_host: "db"
